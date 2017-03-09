@@ -1,0 +1,16 @@
+body {
+  background: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Kanit', sans-serif;
+}
+
+.container {
+  width: 88%;
+}
+
+header.page-header {
+  background: #D3C1AD;
+}
